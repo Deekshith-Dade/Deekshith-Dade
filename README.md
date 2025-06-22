@@ -14,7 +14,7 @@ I'm a Software Engineer & Researcher with a knack for **building intelligent sys
 
 ### 🚀 Featured Projects
 
-#### 📚 [Augment: Your AI Thought Partner](https://github.com/Deekshith-Dade/augment)
+#### 📚 [Augment: Your AI Thought Partner](augment.deekshith.me) ([Code](https://github.com/Deekshith-Dade/augument-frontend.git))
 > _An experimental agentic mind-map engine that helps you make sense of your thinking._
 - Built with LangGraph, FastAPI, and React Three Fiber
 - Creates persistent embeddings of your ideas
@@ -25,17 +25,8 @@ I'm a Software Engineer & Researcher with a knack for **building intelligent sys
 
 ---
 
-#### 🧬 [Contrastive ECG Pretraining @ SCI Institute](https://deekshith-dade.github.io/projects/ecg-contrastive)
-- Pretrained a **MoCo-style contrastive model** on 1M+ ECGs
-- Achieved SOTA AUC with only 10% labeled data
-- Built a **PyTorch DDP pipeline** with SLURM & W&B
-- Created interpretable generative models using **Latent Diffusion** & **GANs** for ECG explanations
 
-🧪 Also designed U-Net-based signal counterfactuals — AI that speaks clinical language.
-
----
-
-#### 📖 [Spot Reader](https://spot-reader.com) ([Code](https://github.com/hunterwr/CS6953Project.git))
+#### 📖 [Spot Reader](https://reader.deekshith.me) 
 > _An AI-enhanced EPUB reading platform with RAG, chat, and annotations._
 - Full-stack system: **Next.js + FastAPI + Supabase + AWS S3**
 - Multi-tool agents with access to web search, YouTube, Pinecone RAG
@@ -46,14 +37,21 @@ I'm a Software Engineer & Researcher with a knack for **building intelligent sys
 
 ---
 
-#### 🪧 [Synthetic Data for Road Sign Detection](https://github.com/Deekshith-Dade/synthetic-roadsign-blender)
+#### 🧬 [ECG and Deep Learning @ SCI Institute](https://deekshith-dade.github.io/projects/ecg-contrastive)
+- Pretrained a **contrastive model** on 1M+ ECGs etc [paper1](https://cinc.org/archives/2024/pdf/CinC2024-223.pdf) [paper2](https://cinc.org/archives/2024/pdf/CinC2024-144.pdf) [paper3](https://cinc.org/archives/2024/pdf/CinC2024-145.pdf)
+- Built a **PyTorch DDP pipeline** with SLURM & W&B
+- Working on interpretable generative models using **Counterfactual Diffusion** / **Latent Diffusion** / **GANs** for ECG explanations
+
+---
+
+#### 🪧 [Synthetic Data for Road Sign Detection](https://github.com/hunterwr/CS6953Project)
 - Procedurally generated diverse road scenes in **Blender**
 - Trained **DETR** and **YOLOv5** using synthetic + real data
 - Improved detection IoU by 3%
 
 ---
 
-#### 📜 [Long Document Transformers (Reproduced)](https://github.com/Deekshith-Dade/reproduced-efficient-longdoc-classification.git)
+#### 📜 [Long Document Transformers (Reproduced)](https://github.com/Deekshith-Dade/reproduced-efficient-longdoc-classification)
 - Benchmarked transformer architectures on long document classification
 - Distributed training with PyTorch DDP + HuggingFace
 
