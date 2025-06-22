@@ -14,7 +14,7 @@ I'm a Software Engineer & Researcher with a knack for **building intelligent sys
 
 ### 🚀 Featured Projects
 
-#### 📚 [Augment: Your AI Thought Partner](augment.deekshith.me) ([Code](https://github.com/Deekshith-Dade/augument-frontend.git))
+#### 📚 [Augment: Your AI Thought Partner](https://augment.deekshith.me) ([Code](https://github.com/Deekshith-Dade/augument-frontend.git))
 > _An experimental agentic mind-map engine that helps you make sense of your thinking._
 - Built with LangGraph, FastAPI, and React Three Fiber
 - Creates persistent embeddings of your ideas
