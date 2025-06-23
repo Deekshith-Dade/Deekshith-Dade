@@ -21,8 +21,7 @@ I'm a Software Engineer & Researcher with a knack for **building intelligent sys
 - Visualizes thought clusters in 3D space
 - Streaming agent workflows with memory & tools
 
-🎯 _"Claude's Artifacts meets personalized memory graph"_
-
+🧠 Augment captures your raw thoughts — voice, text, screenshots — embeds them, clusters them by meaning, and maps them in 3D so you can _literally see what’s on your mind._
 ---
 
 
