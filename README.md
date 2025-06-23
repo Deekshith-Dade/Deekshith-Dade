@@ -23,6 +23,10 @@ I'm a Software Engineer & Researcher with a knack for **building intelligent sys
 
 🧠 _Augment captures your raw thoughts — voice, text, screenshots — embeds them, clusters them by meaning, and maps them in 3D so you can literally see what’s on your mind._
 
+
+https://github.com/user-attachments/assets/4161bdd1-7c74-4591-ae0e-10be9407fdc2
+
+
 ---
 
 
