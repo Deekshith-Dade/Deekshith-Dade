@@ -26,6 +26,7 @@ I'm a Software Engineer & Researcher with a knack for **building intelligent sys
 
 https://github.com/user-attachments/assets/4161bdd1-7c74-4591-ae0e-10be9407fdc2
 
+<img width="1204" height="827" alt="Screenshot 2025-08-25 at 2 19 03 PM" src="https://github.com/user-attachments/assets/fbcf4af5-d70d-487b-9eef-946a2ff9a4d5" />
 
 ---
 
